@@ -1,0 +1,3 @@
+add to HEAD inside index file
+
+<script src="coi-serviceworker.js"></script>
