@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1779960693|14987089190';
+const CACHE_VERSION = '1780052426|9838170506';
 /** @type {string} */
 const CACHE_PREFIX = 'Joker's_FOOL_Car-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
